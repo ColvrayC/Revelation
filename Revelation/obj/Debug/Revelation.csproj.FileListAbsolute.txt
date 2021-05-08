@@ -1,0 +1,8 @@
+C:\Users\Camille\Google Drive\Projets annexes\Sécurité\Revelation\Revelation\bin\Debug\Revelation.exe.config
+C:\Users\Camille\Google Drive\Projets annexes\Sécurité\Revelation\Revelation\bin\Debug\Revelation.exe
+C:\Users\Camille\Google Drive\Projets annexes\Sécurité\Revelation\Revelation\bin\Debug\Revelation.pdb
+C:\Users\Camille\Google Drive\Projets annexes\Sécurité\Revelation\Revelation\obj\Debug\Revelation.csproj.CoreCompileInputs.cache
+C:\Users\Camille\Google Drive\Projets annexes\Sécurité\Revelation\Revelation\obj\Debug\Revelation.exe
+C:\Users\Camille\Google Drive\Projets annexes\Sécurité\Revelation\Revelation\obj\Debug\Revelation.pdb
+C:\Users\Camille\Google Drive\Projets annexes\Sécurité\Revelation\Revelation\bin\Debug\Sodium.dll
+C:\Users\Camille\Google Drive\Projets annexes\Sécurité\Revelation\Revelation\obj\Debug\Revelation.csproj.CopyComplete
