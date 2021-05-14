@@ -1,4 +1,5 @@
-﻿using Revelation.firefox.utils;
+﻿using Revelation.common;
+using Revelation.firefox.utils;
 using Revelation.passwords.utils_firefox;
 using System;
 using System.Collections.Generic;

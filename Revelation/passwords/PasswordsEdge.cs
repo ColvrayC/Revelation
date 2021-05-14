@@ -1,4 +1,5 @@
-﻿using Revelation.passwords.utils_chrome_edge;
+﻿using Revelation.common;
+using Revelation.passwords.utils_chrome_edge;
 using System;
 using System.Collections.Generic;
 using System.IO;

@@ -6,3 +6,6 @@ C:\Users\Camille\Google Drive\Projets annexes\Sécurité\Revelation\Revelation\o
 C:\Users\Camille\Google Drive\Projets annexes\Sécurité\Revelation\Revelation\obj\Debug\Revelation.pdb
 C:\Users\Camille\Google Drive\Projets annexes\Sécurité\Revelation\Revelation\bin\Debug\Sodium.dll
 C:\Users\Camille\Google Drive\Projets annexes\Sécurité\Revelation\Revelation\obj\Debug\Revelation.csproj.CopyComplete
+C:\Users\Camille\Google Drive\Projets annexes\Sécurité\Revelation\Revelation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Camille\Google Drive\Projets annexes\Sécurité\Revelation\Revelation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Camille\Google Drive\Projets annexes\Sécurité\Revelation\Revelation\obj\Debug\Revelation.csprojAssemblyReference.cache

