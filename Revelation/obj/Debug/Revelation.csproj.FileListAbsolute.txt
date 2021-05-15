@@ -9,3 +9,14 @@ C:\Users\Camille\Google Drive\Projets annexes\Sécurité\Revelation\Revelation\o
 C:\Users\Camille\Google Drive\Projets annexes\Sécurité\Revelation\Revelation\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Camille\Google Drive\Projets annexes\Sécurité\Revelation\Revelation\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Camille\Google Drive\Projets annexes\Sécurité\Revelation\Revelation\obj\Debug\Revelation.csprojAssemblyReference.cache
+C:\Users\Camille\Google Drive\Projets annexes\Sécurité\Revelation\Revelation\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Camille\Google Drive\Projets annexes\Sécurité\Revelation\Revelation\bin\Debug\System.Memory.dll
+C:\Users\Camille\Google Drive\Projets annexes\Sécurité\Revelation\Revelation\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Camille\Google Drive\Projets annexes\Sécurité\Revelation\Revelation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Camille\Google Drive\Projets annexes\Sécurité\Revelation\Revelation\bin\Debug\websocket-sharp.dll
+C:\Users\Camille\Google Drive\Projets annexes\Sécurité\Revelation\Revelation\bin\Debug\System.Buffers.dll
+C:\Users\Camille\Google Drive\Projets annexes\Sécurité\Revelation\Revelation\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Camille\Google Drive\Projets annexes\Sécurité\Revelation\Revelation\bin\Debug\System.Memory.xml
+C:\Users\Camille\Google Drive\Projets annexes\Sécurité\Revelation\Revelation\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Camille\Google Drive\Projets annexes\Sécurité\Revelation\Revelation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Camille\Google Drive\Projets annexes\Sécurité\Revelation\Revelation\bin\Debug\websocket-sharp.xml

